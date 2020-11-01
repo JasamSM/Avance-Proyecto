@@ -51,13 +51,13 @@ Si todo está bien nos manda un pequeño mensaje en la parte superior.
 ![img](https://github.com/JasamSM/Avance-Proyecto/blob/master/php-login/capturas/registroexitoso.png)
 
 
-ahora vemos como nuestro nuevo usuario registrado aparece en la base de datos.
+Ahora vemos como nuestro nuevo usuario registrado aparece en la base de datos.
 ------------------------------------------------------------------------------
 
 ![img](https://github.com/JasamSM/Avance-Proyecto/blob/master/php-login/capturas/bdregistroexitoso.png)
 
 
-Ahora si podemos iniciar sesión y al hacerlo correctamente accedemos al sitio de reservas.
+Ahora si podemos iniciar sesión y al hacerlo correctamente accedemos al sitio de reservaciones (Esta es una ventana improvisada).
 -------------------------------------------------------------------------------------------
 
 ![img](https://github.com/JasamSM/Avance-Proyecto/blob/master/php-login/capturas/principal.png)
