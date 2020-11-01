@@ -19,7 +19,7 @@ A continuación se muestra la ventana principal del login.
 ![img](https://github.com/JasamSM/Avance-Proyecto/blob/master/php-login/capturas/login1.png)
 
 
-Está en la instrucción en php que nos muestra el contenido de esta ventana.
+Esta es la instrucción en php que nos muestra el contenido de esta ventana.
 ----------------------------------------------------------------------------
 
 ![img](https://github.com/JasamSM/Avance-Proyecto/blob/master/php-login/capturas/logincod.png)
@@ -63,7 +63,7 @@ Ahora si podemos iniciar sesión y al hacerlo correctamente accedemos al sitio d
 ![img](https://github.com/JasamSM/Avance-Proyecto/blob/master/php-login/capturas/principal.png)
 
 
-Este seria todos los archivos que ocupamos.
+Estos serian todos los archivos que ocupamos.
 -------------------------------------------
 
 ![img](https://github.com/JasamSM/Avance-Proyecto/blob/master/php-login/capturas/contenido.png)
